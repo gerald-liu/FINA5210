@@ -1,2 +1,7 @@
 # FINA5210
-Course Project of FINA 5210, HKUST
+
+FINA 5210 Investment Analysis
+
+2023 Fall, HKUST
+
+Project part 2: portfolio optimization
